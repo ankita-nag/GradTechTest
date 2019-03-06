@@ -1,18 +1,15 @@
 
-
 ## Setup
 install yarn or npm globally 
 
 run `yarn` or `npm install`
 
-## Challenge
-Write some code to implement the function `createMenuData`
+## What this repository does
 
-Use the test runner `jest` to run the `gradTest.test.js` 
+This repository demonstrates writing test cases in javascript and running the test cases with jest, JS testing utility
 
-When the test passes submit your completed challenge to us.
+Here we have an Araay of menu items and their respective sub menus as a key value pair which forms the expected result but we also have an unstructured array of parent and child menus as a single string separated by a /
 
-## Tips
+We are demonstrating how to transform the unstructured array to match it with expected array
 
-Spend time formatting your code and making it look nice.
-Tools like eslint do some amazing things 🕶
+
